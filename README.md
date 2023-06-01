@@ -10,6 +10,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on projects on Web Development.
 - 🤔 I’m looking for help with any new stuff you can teach me.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/epsa-32921223b/)
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her | MgSO4.7H2O
 - ⚡ Fun fact: I love **Loki** aka God of Mischief aka Odinson aka rightful king of Jotunheim aka heir to Asgard.
 
