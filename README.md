@@ -36,3 +36,4 @@ Here are some ideas to get you started:-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ePSA-eJya&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ePSA-eJya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="left" alt="Epsa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ePSA-eJya&show_icons=true&hide_border=true&theme=radical" />
