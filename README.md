@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning stuff on Robotics and Web Development.
 - 👯 I’m looking to collaborate on projects on Web Development.
 - 🤔 I’m looking for help with any new stuff you can teach me.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/epsa-32921223b/) || Quora
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/epsa-32921223b/) || [Quora](https://www.quora.com/profile/Epsa-1)
 - 😄 Pronouns: she/her | MgSO4.7H2O
 - ⚡ Fun fact: I love **Loki** aka God of Mischief aka Odinson aka king of Jotunheim aka heir to Asgard.
 
