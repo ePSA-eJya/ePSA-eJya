@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with any new stuff you can teach me.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/epsa-32921223b/) || [Quora](https://www.quora.com/profile/Epsa-1)
 - 😄 Pronouns: she/her | MgSO4.7H2O
-- ⚡ Fun fact: I love **Loki** aka God of Mischief aka Odinson aka king of Jotunheim aka heir to Asgard.
+- ⚡ Fun fact: In love with **Loki** aka God of Mischief aka Odinson aka king of Jotunheim aka heir to Asgard.
 
 <br><br>
 
