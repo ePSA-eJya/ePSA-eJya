@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Competitive Programming and learning stuff on Robotics and Web Development.
 - 👯 I’m looking to collaborate on projects on Web Development.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/epsa-32921223b/) || [Quora](https://www.quora.com/profile/Epsa-1)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/epsa-32921223b/) 
 - ⚡ Fun fact: MgSO4.7H2O
 
 <br><br>
